@@ -1,5 +1,7 @@
 # cms
 
+campus management system
+
 A new Flutter project.
 
 ## Getting Started
